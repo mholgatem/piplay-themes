@@ -19,7 +19,7 @@ options:
   menu_select_sound: "sfx_select.wav"
   menu_back_sound: "sfx_back.wav"
   menu_navigation_sound: "sfx_navigation.wav"
-  menu_music: "music.ogg"
+  menu_music: "music.wav"
 
   loading_image: "loading_screen.png"
   font_file: "8bitOperatorPlus8-Bold.ttf"
